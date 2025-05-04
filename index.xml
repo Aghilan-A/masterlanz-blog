@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>masterlanz</title>
-    <link>/</link>
+    <link>https://aghilan-a.github.io/masterlanz-blog/</link>
     <description>Recent content on masterlanz</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 May 2025 15:17:43 +0530</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aghilan-a.github.io/masterlanz-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting_up_drumpads</title>
-      <link>/posts/setting_up_drumpads/</link>
+      <link>https://aghilan-a.github.io/masterlanz-blog/posts/setting_up_drumpads/</link>
       <pubDate>Sat, 03 May 2025 15:17:43 +0530</pubDate>
-      <guid>/posts/setting_up_drumpads/</guid>
+      <guid>https://aghilan-a.github.io/masterlanz-blog/posts/setting_up_drumpads/</guid>
       <description>&lt;h2 id=&#34;pleasantries&#34;&gt;Pleasantries&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Roses are red&lt;br&gt;&#xA;Violets are blue&lt;br&gt;&#xA;I want to play drums using drumpads in LMMS&lt;br&gt;&#xA;So do you&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;what-do-i-use&#34;&gt;What Do I Use?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I have an &lt;a href=&#34;https://www.arturia.com/products/hybrid-synths/keylab-essential-mk3/overview&#34;&gt;Arturia KeyLab Essential mk3&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_audio_workstation&#34;&gt;DAW&lt;/a&gt;: &lt;a href=&#34;https://lmms.io/&#34;&gt;LMMS&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;OS: Windows 11&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;software-needed&#34;&gt;Software Needed&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.arturia.com/technology/mcc&#34;&gt;Arturia MIDI Control Center&lt;/a&gt; – specific to Arturia (other manufacturers may have their own)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://plugins4free.com/plugin/2912/&#34;&gt;Sitala&lt;/a&gt; – a free drum sampler that works with LMMS&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Install both of the above.&lt;/p&gt;&#xA;&lt;h2 id=&#34;make-it-work&#34;&gt;Make It Work!&lt;/h2&gt;&#xA;&lt;h3 id=&#34;configuring-arturia-midi-control-center&#34;&gt;Configuring Arturia MIDI Control Center&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Create a new template using the Arturia MIDI Control Center. You don&amp;rsquo;t need the device plugged in for this step — just select the device under the &lt;strong&gt;Device&lt;/strong&gt; dropdown. Once loaded, you&amp;rsquo;ll see the layout on the right.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;device_selection.png&#34; alt=&#34;Device Image&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>

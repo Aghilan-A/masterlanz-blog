@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://aghilan-a.github.io/masterlanz-blog/</loc>
     <lastmod>2025-05-03T15:17:43+05:30</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://aghilan-a.github.io/masterlanz-blog/posts/</loc>
     <lastmod>2025-05-03T15:17:43+05:30</lastmod>
   </url><url>
-    <loc>/posts/setting_up_drumpads/</loc>
+    <loc>https://aghilan-a.github.io/masterlanz-blog/posts/setting_up_drumpads/</loc>
     <lastmod>2025-05-03T15:17:43+05:30</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://aghilan-a.github.io/masterlanz-blog/about/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://aghilan-a.github.io/masterlanz-blog/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://aghilan-a.github.io/masterlanz-blog/tags/</loc>
   </url>
 </urlset>
