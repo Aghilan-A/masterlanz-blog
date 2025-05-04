@@ -2,3 +2,6 @@ baseURL = "https://aghilan-a.github.io/masterlanz-blog/"
 languageCode = "en-us"
 title = "masterlanz"
 theme = "risotto"
+relativeURLs = true
+[params]
+  defaultSection = "post"
